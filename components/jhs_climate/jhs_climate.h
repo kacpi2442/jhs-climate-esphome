@@ -6,7 +6,7 @@
 #include "esphome/components/climate/climate.h"
 #include "esphome/components/binary_sensor/binary_sensor.h"
 #include "esphome/components/wifi/wifi_component.h"
-#include "esphome/components/ota/ota_component.h"
+#include "esphome/components/ota/ota_backend.h"
 #include "esphome.h"
 
 #include "esp32-hal-rmt.h"
